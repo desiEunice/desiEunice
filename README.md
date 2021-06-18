@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eunice Ofori-Addo @desiEunice
+- 👋 Hi, I’m Eunice Ofori-Addo. @desiEunice
 - 👀 I’m interested in Fintech and ML/AI applications in Quantitative finance.
 - 🌱 I’m currently pursuing a Master's degree in Applied Mathematics at Eastern Washington University.
 - 💞️ I’m looking to collaborate on financial portfolio optimization with a quantum annealer.
