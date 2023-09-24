@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eunice Ofori-Addo. @desiEunice
-- 👀 I’m interested in industrial analytics. 
+- 👀 I’m interested in Data Analytics. 
 - 🌱 I'm currently pursuing master's degree in Applied Mathematics at Eastern Washington University.
 - 💞️ My thesis is on modeling failure data from HPC system with the Nonhomogenous Poisson process Power Law model and and recurrent neural network model.
 - 🤝 I’m looking to collaborate on predictive maintenance with reinforcement learning.
